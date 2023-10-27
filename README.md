@@ -19,3 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PapaPureza999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @papapureza999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papapureza999)](https://holopin.io/@papapureza999)
