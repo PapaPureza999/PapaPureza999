@@ -21,4 +21,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @papapureza999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papapureza999)](https://holopin.io/@papapureza999)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7a621673-3d94-4959-80d3-406d334ee1b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/7a621673-3d94-4959-80d3-406d334ee1b6/public_url
