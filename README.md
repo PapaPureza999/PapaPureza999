@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m **Pranjal Karn**, a B.Tech CSE student from Dehradun, India 🇮🇳  
+Hi! I’m **Pranjal**, a B.Tech CSE student from Dehradun, India 🇮🇳  
 🔭 Currently working on **Java & MERN stack projects**  
 💡 Exploring **DSA**, **System Design**, and **Open Source**  
 👯 Open to collaboration on full-stack projects, Java backends, or anything meaningful  
