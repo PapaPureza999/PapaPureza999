@@ -79,7 +79,7 @@ Hi! I’m **Pranjal Karn**, a B.Tech CSE student from Dehradun, India 🇮🇳
 
 ## 🏅 Achievements & Badges:
 
-- ✅ [Credly ML Badge (Amazon)](https://www.credly.com/badges/7a621673-3d94-4959-80d3-406d334ee1b6/public_url)  
+- ✅ [Relational Databases (RDBMS) Essentials](https://www.credly.com/badges/7a621673-3d94-4959-80d3-406d334ee1b6/public_url)  
 - ![YOLO](https://img.shields.io/badge/Achievement-YOLO-blue?style=flat-square)
 - ![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-green?style=flat-square)
 - ![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-purple?style=flat-square)
